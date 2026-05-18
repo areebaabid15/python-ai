@@ -11,7 +11,7 @@ __pycache__/
 
 # Output files (optional — commit if you want)
 *.json
-*.txt
+
 
 # VS Code
 .vscode/
